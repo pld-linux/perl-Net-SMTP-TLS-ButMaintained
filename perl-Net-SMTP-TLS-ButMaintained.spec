@@ -8,7 +8,7 @@
 Summary:	Net::SMTP::TLS::ButMaintained - An SMTP client supporting TLS and AUTH
 Name:		perl-Net-SMTP-TLS-ButMaintained
 Version:	0.20
-Release:	1.1
+Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Net/%{pdir}-%{pnam}-%{version}.tar.gz
