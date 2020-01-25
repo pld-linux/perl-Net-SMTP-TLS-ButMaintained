@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	SMTP-TLS-ButMaintained
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::SMTP::TLS::ButMaintained - An SMTP client supporting TLS and AUTH
 Name:		perl-Net-SMTP-TLS-ButMaintained
 Version:	0.20
